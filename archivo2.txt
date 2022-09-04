@@ -2,5 +2,5 @@
 2º linea de informacion de prueba
 3º linea de informacion de prueba
 4º linea de informacion de prueba
-5º linea de informacion de prueba
+5º modificamos esta linea para provocar conflictos con la rama main
 7º Se agrega esta linea desde la rama develop

@@ -1,5 +1,6 @@
 1º linea de texto de prueba
 2º linea de texto de prueba
+    2.1º Agregamos esta linea de texto para generar conflictos con la rama main
 3º linea de texto de prueba
 4º linea de texto de prueba
 5º linea de texto de prueba
